@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://pbs.twimg.com/profile_banners/3870638668/1619267503/1500x500)]
 
 <h1 align="center">Hi 👋, I'm Sourav Kundu</h1>
 <h3 align="center">A Fresher (would be) Software Engineer</h3>
