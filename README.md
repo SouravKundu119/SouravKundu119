@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://souravkundu119.github.io/Portfolio/](https://souravkundu119.github.io/Portfolio/)
 
-- 💬 Ask me about **DSA**
-
 - 📫 How to reach me **souraukundu119@gmail.com**
 
 - 📄 Know about my experiences [https://souravkundu119.github.io/Portfolio/assets/pdf/Sourav's%20Resume.pdf](https://souravkundu119.github.io/Portfolio/assets/pdf/Sourav's%20Resume.pdf)
